@@ -34,3 +34,27 @@ The term pull request comes from the workflow programmers use to exchange code c
 **Commit**: Record of a change
 
 A commit contains the change to a file or set of files together with data when the change was done and by whom. A repository has a history of all changes ever be done to it as a series of commits. Pull Requests are also made of one or more commits which constitute the suggested change.
+
+## More material
+
+There is a lot of material available for learning and helping with using GitHub. Here is a selection:
+
+## Intros
+
+* **GitHub for non-technical roles**: Brief guide to GitHub for non-technical roles: https://ben.balter.com/2023/03/02/github-for-non-technical-roles/
+* **Introduction to Git and GitHub for Poets**: A nice introduction to git and GitHub: https://www.youtube.com/watch?v=BCQHnlnPusY
+* **GitHub Skills**:
+Learn how to use GitHub with interactive courses designed for beginners and experts: https://skills.github.com/
+
+## Documentation
+
+* **Hello World**: Get started with GitHub: https://docs.github.com/en/get-started/quickstart/hello-world
+* **GitHub Documentation**: The official GitHub documentation: https://docs.github.com
+* **GitHub Help Pages**: The official GitHub help pages: https://help.github.com
+
+## In-depth
+
+* **Interactive Git Tutorial**: An interactive tutorial to learn git in the browser: https://learngitbranching.js.org
+* **Pro Git Book**: A comprehensive guide to Git, available for free online: https://git-scm.com/book/en/v2
+* **Git-it**: An app that teaches you how to use Git and GitHub on the real GitHub: https://github.com/jlord/git-it-electron
+* **Git Visualizer**: A tool to visualize the effect of Git commands in real-time: http://git-school.github.io/visualizing-git/
