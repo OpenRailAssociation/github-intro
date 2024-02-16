@@ -5,6 +5,7 @@
 * Pasta
 * Tomatoes
 * Basil
+* Garlic
 
 ## Instructions
 
