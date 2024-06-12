@@ -6,7 +6,7 @@ Inspired by the high-speed Intercity-Express (ICE) trains that whisk passengers 
 
 * 4 large eggs
 * 1 cup granulated sugar
-* 1 cup all-purpose flour
+* 130g all-purpose flour
 * 1/2 cup unsweetened cocoa powder
 * 1 teaspoon baking powder
 * 1/2 teaspoon salt
